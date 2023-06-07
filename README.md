@@ -5,7 +5,6 @@ application.
 TestNG is used as test framework.
 
 +Complete Page Object Model (POM) using Page Factory in Selenium 
-+Learn Page Object Model Step by Step 
 +POM design - Architecture & Pattern 
 +Page Chaining Model 
 +Use of PageFactory API in Selenium 
